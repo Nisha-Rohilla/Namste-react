@@ -1,0 +1,29 @@
+{
+  "name": "namste_react",
+  "version": "1.0.0",
+  "description": "This is namste react series ",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nisha-Rohilla/Namste-react.git"
+  },
+  "keywords": [],
+  "author": "Nisha Rohilla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nisha-Rohilla/Namste-react/issues"
+  },
+  "homepage": "https://github.com/Nisha-Rohilla/Namste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.15.2"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "browserList":[
+    "Last 2 version"
+  ]
+}
