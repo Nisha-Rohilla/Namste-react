@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "This is namste react series ",
   "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
     "test": "jest"
   },
   "repository": {
@@ -20,10 +22,13 @@
     "parcel": "^2.15.2"
   },
   "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "node-fetch": "^3.3.2",
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
   },
-  "browserList":[
+  "browserList": [
     "Last 2 version"
   ]
 }
